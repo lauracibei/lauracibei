@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋</h1>
+<h3 align="left">Hi there!👋</h3>
 
 ###
 
@@ -6,11 +6,14 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
-<p align="left">📚 I'm currently learning concurrent programming, operations research and mobile programming.<br><br>🎲 Fun fact: I have a turtle, i like coffee and tea, my hobbies are football, trekking and read books.</p>
+<p align="left">
+  📚 I'm currently learning concurrent programming, operations research and mobile programming.<br><br>
+  Fun fact: I have a turtle, i like coffee and tea, my hobbies are football, trekking and read books.
+</p>
 
 ###
 
