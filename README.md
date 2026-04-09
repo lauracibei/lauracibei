@@ -13,7 +13,8 @@
 
 <p align="left">
 
-  Ever since I was a child, I’ve always had a deep passion for science, which led me to attend a science-focused high school (with a focus on applied sciences). It was right there in the classroom that I fell in love with math and physics, but especially with **computer science**, which I love for its deeply practical nature and, in some ways, its incredible creativity. 💻✨
+  Ever since I was a child, I’ve always had a deep passion for science, which led me to attend a science-focused high school (with a focus on applied sciences). 
+  It was right there in the classroom that I fell in love with math and physics, but especially with **computer science**, which I love for its deeply practical nature and, in some ways, its incredible creativity. 💻✨
   
   My enthusiasm allowed me to participate in:
   <ul>
@@ -21,7 +22,7 @@
     <li>💡 <b>Hackathon #HUBSTEAM</b> in Parma</li>
   </ul>
 
-  In addition, I have earned the Cisco IT Essentials certification 📜.
+  In addition, I have earned the <b>Cisco IT Essentials certification</b> 📜.
   
   📚 I'm currently learning <b>concurrent programming</b>, <b>operations research</b> and <b>mobile programming</b>.<br><br>
 
