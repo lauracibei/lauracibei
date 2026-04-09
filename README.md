@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Laura and i am a computer science student at the University of Genoa, from La Spezia (Italy).</p>
+<p align="left">My name is <b>Laura</b> and i am a <b>computer science student at the University of Genoa</b>, from <b>La Spezia</b> (Italy).</p>
 
 ###
 
@@ -11,8 +11,13 @@
 ###
 
 <p align="left">
-  📚 I'm currently learning concurrent programming, operations research and mobile programming.<br><br>
-  Fun fact: I have a turtle, i like coffee and tea, my hobbies are football, trekking and read books.
+  📚 I'm currently learning <b>concurrent programming</b>, <b>operations research</b> and <b>mobile programming</b>.<br><br>
+  Fun fact: 
+  <ul>
+    <li>I have a turtle</li>
+    <li>I like coffee and tea</li>
+    <li>My hobbies are soccer, hiking, and reading books</li>
+  </ul>
 </p>
 
 ###
