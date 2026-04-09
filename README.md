@@ -24,7 +24,9 @@
 
   In addition, I have earned the <b>Cisco IT Essentials certification</b> 📜.
   
-  📚 I'm currently learning <b>concurrent programming</b>, <b>operations research</b> and <b>mobile programming</b>.<br><br>
+  📚 I'm currently learning <b>concurrent programming</b>, <b>operations research</b> and <b>mobile programming</b>.<br>
+
+  Below you can find some of my academic projects💻.
 
   <h3 align="left">Fun fact:</h3> 
   <ul>
